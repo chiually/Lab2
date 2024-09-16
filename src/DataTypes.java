@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class DataTypes {
-
+    // bug fixed
     public static long sum(List<Integer> numbers) {
 
         long s = 0;
